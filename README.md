@@ -1,2 +1,1 @@
-# ex4
-tergelon 4
+https://github.com/salehsarsur/ex4.git
